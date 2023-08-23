@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
-.flex-container {
+.holder {
   display: flex;
   flex-wrap: wrap;
 	justify-content:space-between;
 /*   background-color: DodgerBlue; */
 }
 
-.flex-container > div {
+.holder > div {
   background-color: #f1f1f1;
   width: 100px;
   margin: px;
